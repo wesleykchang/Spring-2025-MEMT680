@@ -1,4 +1,4 @@
-# Spring-2024-MEMT680
+# Spring-2025-MEMT680
 
 This is a course on batteries and electrochemical energy storage, developed by Wes Chang at Drexel University. The course is for anyone interested in the battery field, and is attended by both undergraduates and graduate students. 
 
